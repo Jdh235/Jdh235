@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Jonah Hughes! 👋<br><br>🚀 AI Researcher | Generative AI | Machine Learning | Data Science<br><br>I'm an AI researcher and data scientist with a strong focus on generative AI, deep learning, and diffusion models.<br><br>🧠 Research & Work<br><br>Research Assistant @ University of Exeter – Working on advanced generative AI models for image and video.<br><br>Freelance Data Scientist @ InvestAssure - Developing AI-driven risk models for ESG compliance and financial risk mitigation. Worked on predictive analytics, data visualisation dashboards, and AI automated LLM web scraper system to help organizations assess environmental and social governance risks.<br><br>AI Engineering Intern @ Fremantle (Bertelsmann Group) - Developed AI automations using MS Power Automate, optimised Whisper ASR model by finetuning for context specific subtitling, and engineered a computer vision pipeline for automated video graphics.<br><br>🔧 Technical Skills<br><br>Languages: Python, SQL<br><br>Libraries & Frameworks: PyTorch, TensorFlow, Hugging Face Diffusers, Dash, scikit-learn<br><br>Specialties: Diffusion Models, Large Language Models (LLMs), Reinforcement Learning, Computational Statistics.<br><br>🌏 Personal Interests<br><br>Outside of research, I'm currently doing a ski season in Canada, and I’m looking to relocate to Australia for further academic and professional opportunities. Always keen on discussing new AI oppotunities!<br><br>📫 Connect with Me<br><br>LinkedIn: https://www.linkedin.com/in/jonah-hughes-409163294/<br><br><br>Let's collaborate and push the boundaries of AI! 🚀
 
-<!--
-**Jdh235/Jdh235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jdh235&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jdh235&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdh235&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jdh235&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jdh235&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
